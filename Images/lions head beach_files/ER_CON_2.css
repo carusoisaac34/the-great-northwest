@@ -1,0 +1,47 @@
+/*========================================================*/
+/*             CSS for DotNetNuke Containers              */
+/*                  by Evan O'Neil                        */
+/*              http://www.NukeVille.com                  */
+/*========================================================*/
+
+/*========================================================*/
+/*     Container Design Elements                          */
+/*========================================================*/
+
+
+/*-- visibility toggle --*/ 
+
+.ER_CON_2_ACTIONS{margin: 0px;_margin: -7px; width: 100%; text-align:right;}
+
+/*-- header --*/
+
+.ER_CON_2_HEADER {height: 4px; overflow: hidden; background: url(ER_CON_2_HEADER_BG.gif) repeat-x; margin-top: 12px !important; _margin-top: 0px; padding: 0;}
+* html .ER_CON_2_HEADER {width:100%;}
+.ER_CON_2 {margin: 0; padding: 12px; background-color: #f7f7f7; border-left: 1px solid #c3c3c3; border-right: 1px solid #c3c3c3;}
+* html .ER_CON_2 {width:100%;}
+
+/*-- admin --*/
+
+.ER_CON_2_ADMIN {text-align: center;}
+
+	
+/*-- footer --*/	
+
+.ER_CON_2_FOOTER {height: 4px; background: url(ER_CON_2_FOOTER_BG.gif) repeat-x; padding: 0; margin: 0;}
+#ER_CON_2_HEADER_LEFT_CAP {height: 4px; width: 4px; float: left;  background: url(ER_CON_2_HEADER_LEFT_CAP.gif) repeat-x;}
+#ER_CON_2_HEADER_RIGHT_CAP {height: 4px; width: 4px; float: right;  background: url(ER_CON_2_HEADER_RIGHT_CAP.gif) repeat-x;}
+#ER_CON_2_FOOTER_LEFT_CAP {height: 4px; width: 4px; float: left;  background: url(ER_CON_2_FOOTER_LEFT_CAP.gif) repeat-x;}
+#ER_CON_2_FOOTER_RIGHT_CAP {height: 4px; width: 4px; float: right;  background: url(ER_CON_2_FOOTER_RIGHT_CAP.gif) repeat-x;}
+
+/*-- body --*/	
+
+.ER_BODY {margin:0; height: 0; padding: 0; }
+
+
+/*========================================================*/
+
+
+
+
+
+

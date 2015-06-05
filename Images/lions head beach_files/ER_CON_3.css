@@ -1,0 +1,52 @@
+/*========================================================*/
+/*             CSS for DotNetNuke Containers              */
+/*                  by Evan O'Neil                        */
+/*              http://www.NukeVille.com                  */
+/*========================================================*/
+
+/*========================================================*/
+/*     Container Design Elements                          */
+/*========================================================*/
+
+
+/*-- container title token --*/ 
+
+.ER_CON_3_PAD_TITLE {
+font-family: Arial, Helvetica, Sans-Serif; font-weight: bold; font-size: 13px; text-transform: uppercase; color: #d66900;}
+.ER_CON_3_PAD_TITLE_TD{padding: 10px 0 0 6px;float: left;}
+
+/*-- visibility toggle --*/ 
+
+.ER_CON_3_PAD_VISIBILITY{padding: 13px 5px 0 0; text-align: right; float: right; width: 10px;}
+.ER_CON_3_PAD_ACTIONS{padding: 5px 0 3px 0; float: right;}
+.ER_CON_3_PAD_CONTENT_PANE { _margin: 12px 0 12px 0; padding: 0; text-align:left; }
+/*-- header --*/
+
+.ER_CON_3_PAD_HEADER { height: 33px; background-image: url(ER_CON_3_HEADER_BG.gif); background-repeat: repeat-x; margin-top: 11px;}
+.ER_CON_3_PAD { background-color: #f7f7f7; border-left: 1px solid #c3c3c3; border-right: 1px solid #c3c3c3; padding: 12px; margin: 0; _padding: 0 12px 0 12px;}
+
+/*-- admin --*/
+
+.ER_CON_3_PAD_ADMIN {text-align: center;}
+
+	
+/*-- footer --*/	
+
+.ER_CON_3_PAD_FOOTER {height: 4px; background: url(ER_CON_3_FOOTER_BG.gif) repeat-x; padding: 0; margin: 0;}
+#ER_CON_3_PAD_HEADER_LEFT_CAP {height: 33px; width: 5px; float: left;  background: url(ER_CON_3_HEADER_LEFT_CAP.gif) repeat-x;}
+#ER_CON_3_PAD_HEADER_RIGHT_CAP {height: 33px; width: 5px; float: right;  background: url(ER_CON_3_HEADER_RIGHT_CAP.gif) repeat-x;}
+#ER_CON_3_PAD_FOOTER_LEFT_CAP {height: 4px; width: 5px; float: left;  background: url(ER_CON_3_FOOTER_LEFT_CAP.gif) repeat-x;}
+#ER_CON_3_PAD_FOOTER_RIGHT_CAP {height: 4px; width: 5px; float: right;  background: url(ER_CON_3_FOOTER_RIGHT_CAP.gif) repeat-x;}
+
+/*-- body --*/	
+
+.ER_BODY {margin:0; height: 0; padding: 0; }
+
+
+/*========================================================*/
+
+
+
+
+
+
